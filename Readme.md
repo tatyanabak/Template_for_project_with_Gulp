@@ -10,6 +10,8 @@ git clone https://github.com/tatyanabak/Template_for_project_with_Gulp.git my-pr
 
 cd my-project
 
+git remote set-url origin new-remote-url
+
 npm install
 
 ---
